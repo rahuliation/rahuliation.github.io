@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.e2486fd7.css",
-  "main.css.map": "static/css/main.e2486fd7.css.map",
-  "main.js": "static/js/main.95af48a6.js",
-  "main.js.map": "static/js/main.95af48a6.js.map",
+  "main.css": "static/css/main.d25a38f1.css",
+  "main.css.map": "static/css/main.d25a38f1.css.map",
+  "main.js": "static/js/main.607199fe.js",
+  "main.js.map": "static/js/main.607199fe.js.map",
   "static/media/Gotham-Black.woff": "static/media/Gotham-Black.e29998d8.woff",
   "static/media/Gotham-Bold.woff": "static/media/Gotham-Bold.b51ec430.woff",
   "static/media/Gotham-BookItalic.woff": "static/media/Gotham-BookItalic.cec78cc5.woff",
@@ -21,7 +21,13 @@
   "static/media/GothamMedium.woff": "static/media/GothamMedium.ba7ee4ff.woff",
   "static/media/GothamMediumItalic.woff": "static/media/GothamMediumItalic.3718793a.woff",
   "static/media/GothamMedium_1.woff": "static/media/GothamMedium_1.ba7ee4ff.woff",
-  "static/media/iconmonstr-iconic-font.ttf?v=1.3.0": "static/media/iconmonstr-iconic-font.76abee66.ttf",
-  "static/media/iconmonstr-iconic-font.woff2?v=1.3.0": "static/media/iconmonstr-iconic-font.17aa3c48.woff2",
-  "static/media/iconmonstr-iconic-font.woff?v=1.3.0": "static/media/iconmonstr-iconic-font.3a5b8d6f.woff"
+  "static/media/devicon.eot": "static/media/devicon.681fa39a.eot",
+  "static/media/devicon.svg?-hdf3wh": "static/media/devicon.74e6e6c3.svg",
+  "static/media/devicon.ttf?-hdf3wh": "static/media/devicon.29f80b00.ttf",
+  "static/media/devicon.woff?-hdf3wh": "static/media/devicon.0f964a72.woff",
+  "static/media/unicons.eot?34404611": "static/media/unicons.3784cfb8.eot",
+  "static/media/unicons.svg?34404611": "static/media/unicons.f662f67f.svg",
+  "static/media/unicons.ttf?34404611": "static/media/unicons.80985b4f.ttf",
+  "static/media/unicons.woff2?34404611": "static/media/unicons.97a19766.woff2",
+  "static/media/unicons.woff?34404611": "static/media/unicons.d6933f98.woff"
 }
